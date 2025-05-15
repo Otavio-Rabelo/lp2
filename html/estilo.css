@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+
+h1{
+    color: rgb(238, 37, 37);
+    font-size: 100px;
+    font-family: "Pixelify Sans", sans-serif;
+    
+    div{
+        border: 2px solid;
+    }
+}
